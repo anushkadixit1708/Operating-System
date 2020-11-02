@@ -4,10 +4,10 @@ This repository has some implemented algorithms which one comes across in while 
 
 # Deadlock Algorithms
   1) Banker's Algorithm
-  2) Synchornization Problems
-    i. Dining Philosopehrs
-    ii. Reader Writer
-    iii. Producer Consumer
+  2) Synchornization Problems 
+      1. Dining Philosopehrs
+      2. Reader Writer
+      3. Producer Consumer
 # Disk Scheduling Algorithms
   1. First Come -First Serve (FCFS) 
   2. Shortest Seek Time First (SSTF) 
@@ -20,7 +20,7 @@ This repository has some implemented algorithms which one comes across in while 
   2. Best Fit
   3. Worst Fit
 # Scheduling Algorithms
-  1. First COme First Serve
+  1. First Come First Serve
   2. Shortest Job First
   3. Round Robin
   4. SRTF

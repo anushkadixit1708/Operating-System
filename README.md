@@ -25,5 +25,7 @@ This repository has some implemented algorithms which one comes across in while 
   3. Round Robin
   4. SRTF
   5. Priority Schduling
+ # Bash Scripts 
+  Consists of basic programs implemented in bash script/shell script
  # OS Project
   SERVER-CLIENT FILE TRANSFER SYSTEM AND CHAT APPLICATION USING UDP AND SOCKET PROGRAMMING

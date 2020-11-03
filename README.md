@@ -27,5 +27,7 @@ This repository has some implemented algorithms which one comes across in while 
   5. Priority Schduling
  # Bash Scripts 
   Consists of basic programs implemented in bash script/shell script
+ # Problems
+  Problems based on Application of OS Concepts
  # OS Project
   SERVER-CLIENT FILE TRANSFER SYSTEM AND CHAT APPLICATION USING UDP AND SOCKET PROGRAMMING

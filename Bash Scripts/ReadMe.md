@@ -1,6 +1,11 @@
 # CONTENTS
     Some basic programs implemented in Bash Script
-        1. Armstong Number program
+        1. Armstong Number program - number is armstrong or not
+        2. Angle validation - find whether angles form a triangle
+        3. Character Identification - find the type of character
+        4. Leap Year - find if an year is leap year
+        5. Palindrome - if a string is palindrome or not
+        6. Prime Number - number is prime or not
 
 # Execution Instructions
     Save all files with the extention '.sh' 

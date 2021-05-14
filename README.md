@@ -29,7 +29,7 @@ This repository has some implemented algorithms which one comes across in while 
   3. Round Robin [Code](https://github.com/anushkadixit1708/Operating-System/blob/main/Schdeuling%20Algorithms/Round%20Robin.c)<br>
   4. SRTF [Code](https://github.com/anushkadixit1708/Operating-System/blob/main/Schdeuling%20Algorithms/SRTF.cpp)<br>
   5. Priority Schduling [Code](https://github.com/anushkadixit1708/Operating-System/blob/main/Schdeuling%20Algorithms/Priority%20Scheduling.c)<br>
- # Bash Scripts 
+ # Bash Scripts <br>
   Consists of basic programs implemented in bash script/shell script <br>
     1. Armstong Number program - number is armstrong or not  [Ans](https://github.com/anushkadixit1708/Operating-System/blob/main/Bash%20Scripts/Armstong.sh) <br>
     2. Angle validation - find whether angles form a triangle [Ans](https://github.com/anushkadixit1708/Operating-System/blob/main/Bash%20Scripts/Angle_validation.sh) <br>
@@ -39,12 +39,12 @@ This repository has some implemented algorithms which one comes across in while 
     6. Prime Number - number is prime or not [Ans](https://github.com/anushkadixit1708/Operating-System/blob/main/Bash%20Scripts/Prime%20number.sh) <br>
 
   Execution Instructions [Read](https://github.com/anushkadixit1708/Operating-System/blob/main/Bash%20Scripts/ReadMe.md)<br>
- # Problems
+ # Problems <br>
   Problems based on Application of OS Concepts [Descirption](https://github.com/anushkadixit1708/Operating-System/blob/main/Problems/ReadMe.md) <br>
     1. Cat and Mice problem  [Ans](https://github.com/anushkadixit1708/Operating-System/blob/main/Problems/Cat%20and%20Mice.c) <br>
     2. LRU Scheduling  [Ans:C++](https://github.com/anushkadixit1708/Operating-System/blob/main/Problems/LRU_q.cpp) <br>
                         [Ans: Java](https://github.com/anushkadixit1708/Operating-System/blob/main/Problems/LRU_q.java) <br>
     3. Disk Scheduling [Ans](https://github.com/anushkadixit1708/Operating-System/blob/main/Problems/Disk_schedule_q.c) <br>
- # OS Project
+ # OS Project <br>
   SERVER-CLIENT FILE TRANSFER SYSTEM AND CHAT APPLICATION USING UDP AND SOCKET PROGRAMMING <br>
   Project Report [Read](https://github.com/anushkadixit1708/Operating-System/blob/main/OS%20Project/Project%20Report.docx)
